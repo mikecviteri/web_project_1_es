@@ -1,6 +1,5 @@
 .logo_place_header {
   background-image: url("../../../images/logo_place_header.png");
   top: 30px;
-  margin-left: 64px;
-  position: absolute;
+  left: 64px;
 }
