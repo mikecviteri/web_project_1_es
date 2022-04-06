@@ -4,10 +4,7 @@
 .logo {
   width: 154px;
   height: 31px;
-  position: absolute;
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 2;
-  margin: auto;
-  background-position: center;
 }
